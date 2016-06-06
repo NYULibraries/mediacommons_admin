@@ -1,6 +1,6 @@
-MediaCommons Admin
+MediaCommons admin
 -----
-MediaCommons Admin its a Rubik sub-module, a clean admin theme designed for use with
+MediaCommons admin its a Rubik sub-module, a clean admin theme designed for use with
 the admin module.
 
 Requirements
