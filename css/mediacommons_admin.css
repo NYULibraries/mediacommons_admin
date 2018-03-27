@@ -14,12 +14,10 @@ fieldset.group-public-profile #edit-picture .fieldset-title {
 fieldset {
    padding: 1px;
 }
-.tao #page .image-preview img {
-   max-width: none !important;
- }
- #page .imagefield-crop-widget img {
+
+#page .imagefield-crop-widget img {
   /* Important!  This prevents the imagefield widget from breaking in Rubik */
-  max-width: none !important;
+  max-width: none;
  }
 
  .tao .field-name-field-representative-image {
