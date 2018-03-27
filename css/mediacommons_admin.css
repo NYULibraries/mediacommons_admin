@@ -3,8 +3,21 @@
  * Main theme stylesheet.
  */
 
-.tao #page .image-preview img {
-   max-width: none;
+fieldset.group-public-profile #edit-picture .fieldset-title {
+    margin: 0;
+    padding: 9px 0 0 9px;
+    color: #666;
+    font-weight: bold;
+    font-size: 10px;
+  
+}
+fieldset {
+   padding: 1px;
+}
+
+#page .imagefield-crop-widget img {
+  /* Important!  This prevents the imagefield widget from breaking in Rubik */
+  max-width: none;
  }
 
  .tao .field-name-field-representative-image {
