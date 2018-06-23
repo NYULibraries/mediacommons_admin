@@ -15,7 +15,7 @@ fieldset {
    padding: 1px;
 }
 
-#page .imagefield-crop-widget img {
+#page .imagefield-crop-widget img, #page .image-widget img {
   /* Important!  This prevents the imagefield widget from breaking in Rubik */
   max-width: none;
  }
